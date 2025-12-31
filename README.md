@@ -25,9 +25,14 @@ One important design decision involved changing the MOSFET footprint from **TO-9
 <img align="left" alt="MOSFET_TO-92_HandSolder" width="273px" src="MOSFET_TO-92_HandSolder.png" />
 <br clear="left">
 
+
 ## Schematic
-Include:
-<img align="left" alt="Circuit Schematic" width="300px" src=" " />
+
+<p align="center">
+  <img src="Water_Alarm_Schematic.png" width="600" />
+</p>
+
+
 - Notes on important sections
 
 ## PCB Layout
