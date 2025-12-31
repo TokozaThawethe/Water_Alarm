@@ -27,7 +27,7 @@ One important design decision involved changing the MOSFET footprint from **TO-9
 
 ## Schematic
 Include:
-- Screenshot of schematic
+<img align="left" alt="Circuit Schematic" width="300px" src=" " />
 - Notes on important sections
 
 ## PCB Layout
