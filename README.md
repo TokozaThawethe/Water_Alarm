@@ -32,8 +32,23 @@ One important design decision involved changing the MOSFET footprint from **TO-9
   <img src="Water_Alarm_Schematic.png" width="600" />
 </p>
 
+- External DC supply to connect via DC Barrel Jack (**J1**).
+- Power Flags (**PWR_FLAGs**) used to indicate valid power sources to Electrical Rules Checker (ERC). 
+- Voltage Supply (**VCC**) rail powers the buzzer, LED indicator, and MOSFET drain.
 
-- Notes on important sections
+- Screw Terminal (**J2**) provides an external trigger input (e.g. water sensor electrodes).
+- When water touches the contacts, conductivity will increase, leading to the gate voltage rising, activating the alarm.
+- MOSFET Gate is driven by sensor input; drain controls current to buzzer.
+- Buzzer activates when MOSFET conducts.
+
+- Resistor 1 (**R1, 10MΩ**) acts as a pull-down resistor, keeping the MOSFET OFF when input (**J1**) is not connected to any supply (VCC) or ground.
+- C1 (1nF) filters fast transients and reduces false triggering due to noise by absorbing any high-frequency signals.
+- RC network improves the stability of the gate signal.
+
+- LED provides visual indication of system power/alarm state.
+- Design supports either external 12V supply or 9V battery source.
+- However, only one power source should be connected at a time.
+
 
 ## PCB Layout
 - Board size:
