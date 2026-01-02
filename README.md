@@ -53,8 +53,10 @@ One important design decision involved changing the MOSFET footprint from **TO-9
 ## PCB Layout
 - Board size:
 
-<img align="left" alt="MOSFET_TO-92_HandSolder" width="273px" src="MOSFET_TO-92_HandSolder.png" />
+<img align="left" alt="Board Dimension" width="500px" src="PCB_Board_Dimension.png" />
 <br clear="left">
+
+Dimensions: **52.84 x 44.03mm**
 
 - Number of layers:
 - Design rules considered
@@ -66,3 +68,48 @@ schematic/
 pcb/
 images/
 fabrication/
+
+<img align="left" alt="Board Dimension" width="273px" src="PCB_Board_Dimension.png" />
+<br clear="left">
+
+<img align="left" alt="Board Dimension" width="273px" src="PCB_Board_Dimension.png" />
+<br clear="left">
+
+<img align="left" alt="Board Dimension" width="273px" src="PCB_Board_Dimension.png" />
+<br clear="left">
+
+<img align="left" alt="Board Dimension" width="273px" src="PCB_Board_Dimension.png" />
+<br clear="left">
+
+<img align="left" alt="Board Dimension" width="273px" src="PCB_Board_Dimension.png" />
+<br clear="left">
+
+<img align="left" alt="Board Dimension" width="273px" src="PCB_Board_Dimension.png" />
+<br clear="left">
+
+<img align="left" alt="Board Dimension" width="273px" src="PCB_Board_Dimension.png" />
+<br clear="left">
+
+<img align="left" alt="Board Dimension" width="273px" src="PCB_Board_Dimension.png" />
+<br clear="left">
+
+<img align="left" alt="Board Dimension" width="273px" src="PCB_Board_Dimension.png" />
+<br clear="left">
+
+<img align="left" alt="Board Dimension" width="273px" src="PCB_Board_Dimension.png" />
+<br clear="left">
+
+<img align="left" alt="Board Dimension" width="273px" src="PCB_Board_Dimension.png" />
+<br clear="left">
+
+<img align="left" alt="Board Dimension" width="273px" src="PCB_Board_Dimension.png" />
+<br clear="left">
+
+<img align="left" alt="Board Dimension" width="273px" src="PCB_Board_Dimension.png" />
+<br clear="left">
+
+<img align="left" alt="Board Dimension" width="273px" src="PCB_Board_Dimension.png" />
+<br clear="left">
+
+<img align="left" alt="Board Dimension" width="273px" src="PCB_Board_Dimension.png" />
+<br clear="left">
