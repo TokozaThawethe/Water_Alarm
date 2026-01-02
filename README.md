@@ -53,8 +53,11 @@ One important design decision involved changing the MOSFET footprint from **TO-9
 ## PCB Layout
 - Board size:
 
-<img align="left" alt="Board Dimension" width="500px" src="PCB_Board_Dimension.png" />
+<img align="left" alt="Board Dimensions" width="375px" src="PCB_Board_Dimensions.png" />
+<img align="left" alt="Board Dimension - 3D" width="375px" src="PCB_Board_Dimension_3D.png" />
 <br clear="left">
+
+
 
 Dimensions: **52.84 x 44.03mm**
 
