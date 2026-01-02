@@ -3,6 +3,12 @@
 ## Overview
 This project marks the start of my journey into practical PCB design. I began learning KiCAD by following tutorial videos from DigiKey on YouTube, applying the concepts to design a simple water alarm PCB.
 
+<p align="center">
+<img alt="3D View - Intro" width="400px" src="3D View - Intro.png" />
+</p>
+
+##
+
 ### What the Circuit Does
 My first hands-on attempt at designing a printed circuit board.
 - Designed as a basic water detection alarm.
@@ -53,66 +59,70 @@ One important design decision involved changing the MOSFET footprint from **TO-9
 ## PCB Layout
 - Board size:
 
-<img align="left" alt="Board Dimensions" width="375px" src="PCB_Board_Dimensions.png" />
+<img align="left" alt="Board Dimensions" width="372px" src="PCB_Board_Dimensions.png" />
 <img align="left" alt="Board Dimension - 3D" width="375px" src="PCB_Board_Dimension_3D.png" />
 <br clear="left">
 
-
-
 Dimensions: **52.84 x 44.03mm**
 
+##
+- Screenshots of PCB layout:
+
+<p align="center">
+<img alt="Buzzer Design Symbol Editor" width="500px" src="Buzzer_Design_Symbol_Editor.png" />
+</p>
+<p align="center"> 
+Buzzer Design using Symbol
+<br clear="left">
+  
+##
+- Copper Layers:
+<img align="left" alt="Front Copper Layer" width="382px" src="Front Copper Layer.png" />
+<img align="left" alt="Back Copper Layer" width="375px" src="Back Copper Layer.png" />
+<br clear="left">
+<p align="center"> 
+Front Copper Layer & Back Copper Layer
+<br clear="left">
+  
+##
+- Board Layouts:
+<p align="center">
+<img alt="PCB_Board_Layout_angle" width="500px" src="PCB_Board_Layout_angle.png" />
+</p>
+<p align="center"> 
+PCB Board layout - Angle view
+<br clear="left">
+  
+##
+
+<img align="left" alt="PCB_Board_Layout_top" width="375px" src="PCB_Board_Layout_top.png" />
+<img align="left" alt="PCB_Board_Layout_bottom" width="398px" src="PCB_Board_Layout_bottom.png" />
+<br clear="left">
+<p align="center"> 
+Top View & Bottom View
+<br clear="left">
+  
+##
+
+<img align="left" alt="3D View_top" width="400px" src="3D View_top.png" />
+<img align="left" alt="3D View_angle" width="335px" src="3D View_angle.png" />
+<br clear="left">
+<p align="center"> 
+3D View: How the board will look with the components added
+<br clear="left">
+  
+##
+
+<img align="left" alt="3D View_angle2" width="358px" src="3D View_angle2.png" />
+<img align="left" alt="3D View_bottom" width="395px" src="3D View_bottom.png" />
+<br clear="left">
+<p align="center"> 
+More 3D Views
+<br clear="left">
+  
+##
+
+
 - Number of layers:
-- Design rules considered
-- Screenshot of PCB layout
 
-## Files Structure
-```text
-schematic/
-pcb/
-images/
-fabrication/
 
-<img align="left" alt="Board Dimension" width="273px" src="PCB_Board_Dimension.png" />
-<br clear="left">
-
-<img align="left" alt="Board Dimension" width="273px" src="PCB_Board_Dimension.png" />
-<br clear="left">
-
-<img align="left" alt="Board Dimension" width="273px" src="PCB_Board_Dimension.png" />
-<br clear="left">
-
-<img align="left" alt="Board Dimension" width="273px" src="PCB_Board_Dimension.png" />
-<br clear="left">
-
-<img align="left" alt="Board Dimension" width="273px" src="PCB_Board_Dimension.png" />
-<br clear="left">
-
-<img align="left" alt="Board Dimension" width="273px" src="PCB_Board_Dimension.png" />
-<br clear="left">
-
-<img align="left" alt="Board Dimension" width="273px" src="PCB_Board_Dimension.png" />
-<br clear="left">
-
-<img align="left" alt="Board Dimension" width="273px" src="PCB_Board_Dimension.png" />
-<br clear="left">
-
-<img align="left" alt="Board Dimension" width="273px" src="PCB_Board_Dimension.png" />
-<br clear="left">
-
-<img align="left" alt="Board Dimension" width="273px" src="PCB_Board_Dimension.png" />
-<br clear="left">
-
-<img align="left" alt="Board Dimension" width="273px" src="PCB_Board_Dimension.png" />
-<br clear="left">
-
-<img align="left" alt="Board Dimension" width="273px" src="PCB_Board_Dimension.png" />
-<br clear="left">
-
-<img align="left" alt="Board Dimension" width="273px" src="PCB_Board_Dimension.png" />
-<br clear="left">
-
-<img align="left" alt="Board Dimension" width="273px" src="PCB_Board_Dimension.png" />
-<br clear="left">
-
-<img align="left" alt="Board Dimension" width="273px" src="PCB_Board_Dimension.png" />
-<br clear="left">
