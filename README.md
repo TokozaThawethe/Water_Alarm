@@ -52,6 +52,10 @@ One important design decision involved changing the MOSFET footprint from **TO-9
 
 ## PCB Layout
 - Board size:
+
+<img align="left" alt="MOSFET_TO-92_HandSolder" width="273px" src="MOSFET_TO-92_HandSolder.png" />
+<br clear="left">
+
 - Number of layers:
 - Design rules considered
 - Screenshot of PCB layout
