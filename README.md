@@ -30,8 +30,8 @@ Under normal conditions, the circuit remains open and no current flows through t
 ### Key Design Decisions
 One important design decision involved changing the MOSFET footprint from **TO-92_Inline [left]** to **TO-92_HandSolder [right]**. The inline footprint places the pads very close together (approximately 50 mils / 1.27 mm), which increases the risk of solder bridging during hand soldering. The hand-solder footprint provides greater pad spacing, making the board easier and safer to assemble while reducing the likelihood of short circuits.
 
-<img align="left" alt="MOSFET_TO-92_Inline" width="470px" src="MOSFET_TO-92_Inline.png" />
-<img align="left" alt="MOSFET_TO-92_HandSolder" width="428px"src="MOSFET_TO-92_HandSolder.png" />
+<img align="left" alt="MOSFET_TO-92_Inline" width="400px" src="MOSFET_TO-92_Inline.png" />
+<img align="left" alt="MOSFET_TO-92_HandSolder" width="365px"src="MOSFET_TO-92_HandSolder.png" />
 <br clear="left">
 <p align="center"> 
 MOSFET Inline Footprint [left] & MOSFET HandSolder Footprint[right]
