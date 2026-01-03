@@ -134,8 +134,3 @@ More 3D Views
 <br clear="left">
   
 ##
-
-
-- Number of layers:
-
-
